@@ -56,6 +56,10 @@ void loop() {
   servo4.write(angle4);
   servo5.write(angle5);
   servo6.write(angle6);
+<img width="935" height="512" alt="image" src="https://github.com/user-attachments/assets/2899e0b1-3e55-4638-80be-eaea4081b7ba" />
+<img width="935" height="512" alt="image" src="https://github.com/user-attachments/assets/e5c5c235-1775-4c92-b392-0ea64418a812" />
+
+
 
   
 }
